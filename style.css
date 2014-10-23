@@ -16,7 +16,7 @@ time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font: inherit;
+
 	vertical-align: baseline;
 }
 article, aside, details, figcaption, figure, 
@@ -52,9 +52,9 @@ table {
 body {
 	margin: 0 auto;
 	background: #333 url(images/backgrounds/4.jpg) repeat fixed top center;
-	color: #7A7A7A;
+	color: #000;
 	line-height: 18px;
-	font-family: font-family: 'Voces', cursive;
+	font-family: 'Voces', Arial;
 	overflow: hidden;
 	font-size: 12px
 }
@@ -95,7 +95,10 @@ h4 { font-size: 18px }
 h5 { font-size: 14px }
 h6 { font-size: 12px }
 p {
-	margin-bottom: 30px
+	margin-bottom: 30px;
+	font-family: 'Voces', Tahoma, Arial;
+	font-size: 1.4em;
+	line-height: 1.3em;
 }
 p:last-child {
 	margin-bottom: 0
