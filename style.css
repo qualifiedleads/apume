@@ -54,7 +54,7 @@ body {
 	background: #333 url(images/backgrounds/4.jpg) repeat fixed top center;
 	color: #7A7A7A;
 	line-height: 18px;
-	font-family: "Tahoma", Helvetica, Arial;
+	font-family: font-family: 'Voces', cursive;
 	overflow: hidden;
 	font-size: 12px
 }
@@ -83,7 +83,7 @@ h1, h2, h3, h4, h5, h6 {
 	color: #000;
 	padding: 0;
 	margin: 0 0 10px 0;
-	font-family: "Marcellus", Tahoma, Arial;
+	font-family: "Voces", Tahoma, Arial;
 	font-weight: bold;
 	line-height: 1;
 	text-transform: uppercase;
@@ -2122,7 +2122,7 @@ ul.newsticker span {
 canvas {}
 .knob {
 	font-size: 22px !important;
-	font-family: "Marcellus", Tahoma, Arial !important;
+	font-family: "Voces", Tahoma, Arial !important;
 }
 .knob-box .knob {
 	top: -10px !important;
@@ -4132,7 +4132,7 @@ hr.theme20-1 {
 	color:#fff;
 	font-size: 14px;
 	font-weight: normal;
-	font-family: "Marcellus", Tahoma, Arial;
+	font-family: "Voces", Tahoma, Arial;
 	-webkit-animation: fadeInUp 1.3s;
 	animation: fadeInUp 1.3s;
 }
@@ -4184,7 +4184,7 @@ a.notification-close {
 .countdown {
 	margin: 0 auto;
 	text-align: center;
-	font-family: "Marcellus", Tahoma, Arial;
+	font-family: "Voces", Tahoma, Arial;
 	font-weight: bold;
 	text-transform: uppercase;
 }
@@ -5225,7 +5225,7 @@ a.notification-close {
 	right: 20px;
 	font-size: 40px;
 	text-align: center;
-	font-family: "Marcellus", Tahoma, Arial;
+	font-family: "Voces", Tahoma, Arial;
 }
 .Bhead small {
 	display: block;
